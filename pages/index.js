@@ -11,6 +11,7 @@ const HomePage = () => {
  const onChange=(e)=>{  
     let getval=e.target.value;
     setValue(getval);
+    
 }
 //*******
 // add to list
